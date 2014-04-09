@@ -1,0 +1,8 @@
+[
+{"type":"text","table_field":"site_spare1","placeholder":"e.g. AES0001","label":"Tenure Holder BoreID:","field":"spare1","maxlength":"7","width":"7","required":"true"},
+{"type":"text","table_field":"site_station","placeholder":"e.g 149343","label":"DNRM Reg. No.: ","field":"station","table":"site","maxlength":"18","width":"18"},
+{"type":"text","table_field":"site_latitude","placeholder":"Latitude","label":"Latitude: ","field":"latitude","table":"site","maxlength":"12","width":"12"},
+{"type":"text","table_field":"site_longitude","placeholder":"Longitude","label":"Longitude: ","field":"longitude","table":"site","maxlength":"12","width":"12"},
+{"type":"date","table_field":"areasmt_date","label":"Date of Visit: ","field":"date","table":"areasmt","maxlength":"12","width":"12"},
+{"width":"2","maxlength":"2","pattern":null,"required":"","tab":"bore owner","table_field":"site_datum","type":"text","label":"Hello2"}
+]

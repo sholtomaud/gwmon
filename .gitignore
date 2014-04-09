@@ -1,0 +1,10 @@
+/app/bin/*
+/app/*.zip
+/app/scripts/node_modules/*
+/node_modules/*
+/styles/*
+/dist/*
+/bower_components/*
+/.tmp/*
+/sls-sample-app/*
+
